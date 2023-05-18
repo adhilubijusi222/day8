@@ -1,0 +1,24 @@
+.box{
+    width:50px;
+    height:max-content;
+    background-color:bisque;
+}
+image{
+    width:200px;
+    height:100px;
+}
+.p{
+    font-size:60px;
+    color:rgb(12, 46, 236);
+    text-align: center;
+    margin-top: 10px;
+}
+.p1{
+    font-size:65px;
+    color:black;
+    text-align: center;
+    font-style: normal;
+    
+}
+
+
